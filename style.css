@@ -1,0 +1,12 @@
+/* CSS files add styling rules to your content */
+
+h1{
+  color:blue;
+}
+a{
+  color:lightgreen;
+}
+
+.intro {
+    color: green;
+}
